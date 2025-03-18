@@ -1,4 +1,6 @@
-Name - Ayush nEw
-Age - 219
-AESEC
-82%
+
+Name - Ayush Tomer
+Age - 22
+ABESEC
+80%
+Push - 2
